@@ -1,0 +1,24 @@
+main#gook {
+    background: orange;
+    width: 1170px;
+    margin: auto;
+    overflow: hidden;
+    border-bottom: 3px solid;
+}
+
+.middle {
+    width: 110px;
+    background: orangered;
+    float: left;
+    padding: 19px 0px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.ghfjh {
+    width: 1059px;
+    float: right;
+    padding: 17px 0px;
+    color: aliceblue;
+}
+
